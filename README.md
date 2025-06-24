@@ -24,7 +24,7 @@ I was particularly effective at:
 
 Working through this Software Design Document (SDD) helped reinforce how essential it is to build a strong technical foundation **before** writing a single line of code. By evaluating operating system platforms, memory and storage needs, and system architecture first, I was able to design a scalable environment that supports both development and production needs.
 
-One of the most helpful aspects was documenting environment requirements—this gave structure to decisions about deployment pipelines, toolchains, and compatibility between development and runtime environments.
+One of the most helpful aspects was documenting environment requirements. This gave structure to decisions about deployment pipelines, toolchains, and compatibility between development and runtime environments.
 
 ---
 
@@ -53,7 +53,7 @@ For similar projects, I would continue to:
 - Include diagrams for architecture and component interactions.
 - Employ design patterns (like Singleton and Iterator) where they naturally align with business logic.
 
-Designing software isn't just about code—it's about setting up the right ecosystem where that code can thrive.
+Designing software isn't just about code. It's about setting up the right ecosystem where that code can thrive.
 
 ---
 
@@ -64,3 +64,12 @@ Designing software isn't just about code—it's about setting up the right ecosy
 - Memory and Storage Management
 - Security Considerations (OAuth, multi-platform protection)
 - Object-Oriented Design (Singleton, Inheritance, Iterator Pattern)
+
+---
+
+## 📁 Repository Structure
+
+/OperatingPlatforms
+│
+├── CS 230 Project Software Design.docx # Final design document
+├── README.md # This file
